@@ -82,18 +82,6 @@ I'm a passionate student and aspiring **Web Developer** who enjoys turning ideas
 
 ---
 
-## 📂 Featured Projects
-
-| 🚀 Project | 📝 Description | 🔧 Tech |
-|---|---|---|
-| [Complete Web Dev Step-by-Step](https://github.com/ranichandnirani/Complete-Web-Development-step-by-step) | Full web dev journey from scratch | HTML, CSS, JS |
-| [30 Days of JS Challenge](https://github.com/ranichandnirani/30-Days-of-JS-Challenge) | Daily JavaScript practice challenges | JavaScript |
-| [Web Projects by Level](https://github.com/ranichandnirani/Web-projects-by-level) | Projects organized by difficulty | CSS, HTML |
-| [Complete Java Step-by-Step](https://github.com/ranichandnirani/Complete-Java-step-by-step) | Java learning from basics to advanced | Java |
-| [Complete Python](https://github.com/ranichandnirani/Complete-Python) | Python fundamentals & exercises | Python |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
