@@ -5,12 +5,14 @@
 
 <!-- Name + Role shown below banner -->
 <h1>Hey, I'm Chandni👋</h1>
-<h3>💻 Learning Web Development &nbsp;•&nbsp; 🐍 Python Learner &nbsp;•&nbsp; 🚀 Building My Coding Journey</h3>
+<h3>💻 Aspiring Web Developer &nbsp;•&nbsp; 🐍 Python Learner &nbsp;•&nbsp; 🚀 Building My Coding Journey</h3>
 
 <br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Building+for+the+Web+%F0%9F%8C%90;Full+Stack+Explorer+%F0%9F%9B%A0%EF%B8%8F;+Learning+Python+%26+DSA+%F0%9F%90%8D;+Always+Curious+%F0%9F%94%8D;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%94%81" alt="Typing SVG" />
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Building+for+the+Web+%F0%9F%8C%90;Full+Stack+Explorer+%F0%9F%9B%A0%EF%B8%8F;Learning+Python+%F0%9F%90%8D;Always+Curious+%F0%9F%94%8D;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%94%81" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Building+for+the+Web+%F0%9F%8C%90;Full+Stack+Explorer+%F0%9F%9B%A0%EF%B8%8F;+Learning+Python+%26+DSA+%F0%9F%90%8D;+Always+Curious+%F0%9F%94%8D;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%94%81" alt="Typing SVG" /> -->
 
 <br/><br/>
 
@@ -26,7 +28,7 @@ Hi! I'm **Chandni Rani** 👋
 
 I'm a passionate student and aspiring **Web Developer** who enjoys turning ideas into responsive and user-friendly websites. I like building projects and improving my coding skills step by step.
 
-- 🌱 Currently learning **Python**, **DSA with Python**, and **Backend tools**
+- 🌱 Currently learning **Python**, and **Backend tools**
 - 💻 Building small projects to gain practical experience
 - 🚀 Exploring both **frontend and backend development**
 - 📚 Always focused on learning and improving
