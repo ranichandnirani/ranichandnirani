@@ -5,7 +5,7 @@
 
 <!-- Name + Role shown below banner -->
 <h1>Hey, I'm Chandni👋</h1>
-<h3>💻 Aspiring Web Developer &nbsp;•&nbsp; 🐍 Python Learner &nbsp;•&nbsp; 🚀 Building My Coding Journey</h3>
+<h3>💻 Learning Web Development &nbsp;•&nbsp; 🐍 Python Learner &nbsp;•&nbsp; 🚀 Building My Coding Journey</h3>
 
 <br/>
 
