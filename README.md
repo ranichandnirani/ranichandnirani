@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner — no text, just the wave art -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&animation=twinkling" width="100%"/>
 
 <!-- Name + Role shown below banner -->
 <h1>Hey, I'm Chandni👋</h1>
