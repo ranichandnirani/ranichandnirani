@@ -5,7 +5,7 @@
 
 <!-- Name + Role shown below banner -->
 <h1>Hey, I'm Chandni👋</h1>
-<h3>💻 Aspiring Web Developer &nbsp;•&nbsp; 🐍 Python Learner &nbsp;•&nbsp; 🚀 Building My Coding Journey</h3>
+<h3>💻 Full Stack Web Developer(MERN) &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 🚀 Building My Coding Journey</h3>
 
 <br/>
 
@@ -28,7 +28,7 @@ Hi! I'm **Chandni Rani** 👋
 
 I'm a passionate student and aspiring **Web Developer** who enjoys turning ideas into responsive and user-friendly websites. I like building projects and improving my coding skills step by step.
 
-- 🌱 Currently learning **Python**, and **Backend tools**
+- 🌱 Currently learning **Backend tools**
 - 💻 Building small projects to gain practical experience
 - 🚀 Exploring both **frontend and backend development**
 - 📚 Always focused on learning and improving
@@ -63,14 +63,15 @@ I'm a passionate student and aspiring **Web Developer** who enjoys turning ideas
 
 **Frameworks & Libraries**
 
-<!-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<!-- <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> -->
 
 
-<!-- <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>  -->
 
 **Tools & Design**
 
